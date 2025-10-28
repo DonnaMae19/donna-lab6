@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.pinkAccent),
       ),
-      home: const MyHomePage(title: 'Aragona Flutter'),
+      home: const MyHomePage(title: 'Aragona Flutter Page'),
     );
   }
 }
